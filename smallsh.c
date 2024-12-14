@@ -1,13 +1,4 @@
 // Name: Andrew Dang
-// CS344 Oregon State University
-// Resources used below:
-// https://brennan.io/2015/01/16/write-a-shell-in-c/
-// https://www.geeksforgeeks.org/making-linux-shell-c/
-// https://www.geeksforgeeks.org/signals-c-language/
-// https://www.youtube.com/watch?v=1R9h-H2UnLs
-// https://www.youtube.com/watch?v=kx60fayG-qY
-// https://www.youtube.com/watch?v=VwS3dx3uyiQ
-
 
 #include "smallsh.h"
 
