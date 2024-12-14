@@ -9,8 +9,6 @@ int main(){
     // The status of the last foreground process
     int prevStatus = 0;
 
-    // I stole this off lecture slides 3.3 by the way shh
-
     // This is the initializers for SIGINT, SIGTSTP, and SIGCHLD
     // We are setting these to 0 at the start
     struct sigaction SIGINT_action = {0}, SIGTSTP_action = {0}, SIGCHLD_action = {0};
